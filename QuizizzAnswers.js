@@ -1,7 +1,7 @@
 var x = document.createElement("link");
 x.rel = 'stylesheet';
 x.type = 'text/css'
-x.href = "https://raw.githubusercontent.com/Gabrieeeltd/gabrieeeltd/master/QuizizzModalLayout.css"
+x.href = "https://cdn.jsdelivr.net/gh/EastArctica/JS-Plugins@master/Un-Released/Kahoot/KahootModal.css"
 document.head.appendChild(x);
 
 var xhttp = new XMLHttpRequest()
